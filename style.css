@@ -233,6 +233,13 @@ button:hover {
     line-height: 2rem;
   }
 }
+@media screen and (max-width: 500px) {
+  .bg-img h1  {
+    line-height: 1.2rem;
+    font-size: 12px;
+    width: 130px;
+  }
+}
 
 .text {
   width: 100%;
