@@ -213,6 +213,12 @@ button:hover {
   display: flex;
   align-items: center;
 }
+@media screen and (max-width: 500px) {
+  .bg-img {
+    margin-top: 50px;
+    height: 50vh;
+  }
+}
 
 .bg-img h1 {
   color: #000000;
